@@ -5,6 +5,8 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: hidalgo-scrape
   cancel-in-progress: false
@@ -41,3 +43,17 @@ jobs:
             git commit -m "Daily lead scrape: $(date -u +'%Y-%m-%d')"
             git push
           fi
+      - name: Upload dashboard artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard/
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-22.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy dashboard to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
