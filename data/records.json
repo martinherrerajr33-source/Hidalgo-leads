@@ -1,8 +1,59 @@
 {
-    "fetched_at": null,
-    "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-    "date_range": "",
-    "total": 0,
-    "with_address": 0,
-    "records": []
+  "fetched_at": "2026-07-08T20:32:45.306867+00:00",
+  "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
+  "date_range": "2026-07-01 to 2026-07-08",
+  "total": 2,
+  "with_address": 0,
+  "records": [
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-07-07",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3767455",
+      "grantee": "--/--/--",
+      "amount": null,
+      "legal": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "AMD LIS PENDENS",
+      "filed": "2026-07-08",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3767957",
+      "grantee": "--/--/--",
+      "amount": null,
+      "legal": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    }
+  ]
 }
