@@ -1,0 +1,42 @@
+name: Hidalgo Motivated Seller Scrape
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 7:00 UTC = 1:00 AM Central (2:00 AM CDT)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: hidalgo-scrape
+  cancel-in-progress: false
+jobs:
+  scrape:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml dbfread playwright
+          python -m playwright install --with-deps chromium
+      - name: Run scraper
+        env:
+          LOOKBACK_DAYS: "7"
+          # Optional: pin the exact HCAD bulk file if auto-discovery fails
+          # CAD_BULK_URL: "https://hidalgo.prodigycad.com/downloads/appraisal_export.zip"
+        run: python scraper/fetch.py
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dashboard/records.json data/records.json data/ghl_import.csv || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily lead scrape: $(date -u +'%Y-%m-%d')"
+            git push
+          fi
