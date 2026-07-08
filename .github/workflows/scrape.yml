@@ -26,8 +26,9 @@ jobs:
       - name: Run scraper
         env:
           LOOKBACK_DAYS: "7"
-          # Optional: pin the exact HCAD bulk file if auto-discovery fails
-          # CAD_BULK_URL: "https://hidalgo.prodigycad.com/downloads/appraisal_export.zip"
+          # HCAD bulk parcel/appraisal export (HCADShapefiles.zip, hosted on Google Drive
+          # per hidalgo.prodigycad.com/data-downloads)
+          CAD_BULK_URL: "https://drive.usercontent.google.com/download?id=1jdNqzlfEVDkSbWp2eva7S1U93rlDhZdo&export=download&confirm=t"
         run: python scraper/fetch.py
       - name: Commit and push results
         run: |
