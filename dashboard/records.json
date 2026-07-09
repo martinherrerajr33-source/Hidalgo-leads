@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-08T21:44:43.384323+00:00",
+  "fetched_at": "2026-07-09T10:25:05.687053+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-07-01 to 2026-07-08",
-  "total": 2,
-  "with_address": 0,
+  "date_range": "2026-07-02 to 2026-07-09",
+  "total": 3,
+  "with_address": 2,
   "records": [
     {
       "doc_num": "",
@@ -11,24 +11,50 @@
       "filed": "2026-07-07",
       "cat": "LP",
       "cat_label": "Lis Pendens",
-      "owner": "2026-3767455",
-      "grantee": "--/--/--",
+      "owner": "REALTY LB5 LLC",
+      "grantee": "PUBLIC",
       "amount": null,
-      "legal": "",
-      "prop_address": "",
+      "legal": "2026-3767455",
+      "prop_address": "1400 E IRIS AVE, MCALLEN TX",
       "prop_city": "",
       "prop_state": "TX",
       "prop_zip": "",
       "mail_address": "",
       "mail_city": "",
-      "mail_state": "",
+      "mail_state": "TX",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "LLC / corp owner",
+        "New this week"
+      ],
+      "score": 60
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-07-07",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "HIDALGO COUNTY",
+      "grantee": "MARTINEZ ANA CELIA",
+      "amount": null,
+      "legal": "2026-3767635",
+      "prop_address": "N ALAMO RD, TX",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "TX",
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
         "Lis pendens",
         "New this week"
       ],
-      "score": 45
+      "score": 50
     },
     {
       "doc_num": "",
