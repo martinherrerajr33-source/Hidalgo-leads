@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-09T10:25:05.687053+00:00",
+  "fetched_at": "2026-07-10T10:24:12.381149+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-07-02 to 2026-07-09",
+  "date_range": "2026-07-03 to 2026-07-10",
   "total": 3,
-  "with_address": 2,
+  "with_address": 3,
   "records": [
     {
       "doc_num": "",
@@ -58,28 +58,28 @@
     },
     {
       "doc_num": "",
-      "doc_type": "AMD LIS PENDENS",
+      "doc_type": "LIS PENDENS",
       "filed": "2026-07-08",
       "cat": "LP",
       "cat_label": "Lis Pendens",
-      "owner": "2026-3767957",
-      "grantee": "--/--/--",
+      "owner": "TEXAS STATE OF",
+      "grantee": "CASAS JESUS GUADALUPE",
       "amount": null,
-      "legal": "",
-      "prop_address": "",
+      "legal": "2026-3767957",
+      "prop_address": "BUSINESS 83, TX",
       "prop_city": "",
       "prop_state": "TX",
       "prop_zip": "",
       "mail_address": "",
       "mail_city": "",
-      "mail_state": "",
+      "mail_state": "TX",
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
         "Lis pendens",
         "New this week"
       ],
-      "score": 45
+      "score": 50
     }
   ]
 }
