@@ -1,58 +1,8 @@
 {
-  "fetched_at": "2026-07-15T09:10:06.840790+00:00",
+  "fetched_at": "2026-07-16T09:13:52.059824+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-07-08 to 2026-07-15",
-  "total": 2,
-  "with_address": 1,
-  "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-07-08",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "TEXAS STATE OF",
-      "grantee": "CASAS JESUS GUADALUPE",
-      "amount": null,
-      "legal": "2026-3767957",
-      "prop_address": "BUSINESS 83, TX",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "TX",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 50
-    },
-    {
-      "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-07-09",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT #01",
-      "grantee": "MALDONADO JUAN",
-      "amount": null,
-      "legal": "2026-3768573",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "New this week"
-      ],
-      "score": 35
-    }
-  ]
+  "date_range": "2026-07-09 to 2026-07-16",
+  "total": 0,
+  "with_address": 0,
+  "records": []
 }
