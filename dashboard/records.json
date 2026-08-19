@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-08-18T07:37:45.875144+00:00",
+  "fetched_at": "2026-08-19T07:37:56.419548+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-08-11 to 2026-08-18",
-  "total": 3,
+  "date_range": "2026-08-12 to 2026-08-19",
+  "total": 2,
   "with_address": 0,
   "records": [
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
-      "filed": "2026-08-11",
+      "filed": "2026-08-17",
       "cat": "LP",
       "cat_label": "Lis Pendens",
-      "owner": "MATA ROGELIO",
-      "grantee": "MATA RUBEN TRUSTEE",
+      "owner": "LAKEVIEW LOAN SERVICING LLC",
+      "grantee": "DOMINGUEZ RUBIOLA RAMIREZ",
       "amount": null,
-      "legal": "2026-3778518",
+      "legal": "2026-3780055",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
@@ -26,9 +26,10 @@
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
         "Lis pendens",
+        "LLC / corp owner",
         "New this week"
       ],
-      "score": 45
+      "score": 55
     },
     {
       "doc_num": "",
@@ -40,31 +41,6 @@
       "grantee": "GUTIERREZ JONATHAN LEE",
       "amount": null,
       "legal": "2026-3779417",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-08-17",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "2026-3780055",
-      "grantee": "--/--/--",
-      "amount": null,
-      "legal": "",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
