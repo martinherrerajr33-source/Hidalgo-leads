@@ -1,60 +1,8 @@
 {
-  "fetched_at": "2026-08-19T07:37:56.419548+00:00",
+  "fetched_at": "2026-08-20T07:42:22.391338+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-08-12 to 2026-08-19",
-  "total": 2,
+  "date_range": "2026-08-13 to 2026-08-20",
+  "total": 0,
   "with_address": 0,
-  "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-08-17",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "LAKEVIEW LOAN SERVICING LLC",
-      "grantee": "DOMINGUEZ RUBIOLA RAMIREZ",
-      "amount": null,
-      "legal": "2026-3780055",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 55
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-08-13",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "GUTIERREZ FELIPE",
-      "grantee": "GUTIERREZ JONATHAN LEE",
-      "amount": null,
-      "legal": "2026-3779417",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    }
-  ]
+  "records": []
 }
