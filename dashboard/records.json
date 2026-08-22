@@ -1,83 +1,8 @@
 {
-  "fetched_at": "2026-08-21T07:42:06.932548+00:00",
+  "fetched_at": "2026-08-22T07:30:58.180682+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-08-14 to 2026-08-21",
-  "total": 3,
+  "date_range": "2026-08-15 to 2026-08-22",
+  "total": 0,
   "with_address": 0,
-  "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-08-17",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "LAKEVIEW LOAN SERVICING LLC",
-      "grantee": "DOMINGUEZ RUBIOLA RAMIREZ",
-      "amount": null,
-      "legal": "2026-3780055",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 55
-    },
-    {
-      "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-08-18",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "MORENO ALEJANDRO",
-      "grantee": "UNKNOWN",
-      "amount": null,
-      "legal": "2026-3780639",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "New this week"
-      ],
-      "score": 35
-    },
-    {
-      "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-08-18",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "KING JORDAN",
-      "grantee": "UNKNOWN",
-      "amount": null,
-      "legal": "2026-3780638",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "New this week"
-      ],
-      "score": 35
-    }
-  ]
+  "records": []
 }
