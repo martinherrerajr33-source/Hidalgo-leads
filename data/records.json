@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-25T07:43:15.751304+00:00",
+  "fetched_at": "2026-08-26T07:44:30.999872+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-08-18 to 2026-08-25",
+  "date_range": "2026-08-19 to 2026-08-26",
   "total": 5,
   "with_address": 0,
   "records": [
@@ -57,14 +57,14 @@
     },
     {
       "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-08-18",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "MORENO ALEJANDRO",
-      "grantee": "UNKNOWN",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-08-25",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3782481",
+      "grantee": "--/--/--",
       "amount": null,
-      "legal": "2026-3780639",
+      "legal": "",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
@@ -75,33 +75,10 @@
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
+        "Lis pendens",
         "New this week"
       ],
-      "score": 35
-    },
-    {
-      "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-08-18",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "KING JORDAN",
-      "grantee": "UNKNOWN",
-      "amount": null,
-      "legal": "2026-3780638",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "New this week"
-      ],
-      "score": 35
+      "score": 45
     },
     {
       "doc_num": "",
@@ -113,6 +90,30 @@
       "grantee": "MAR JUAN DEMETRIO",
       "amount": null,
       "legal": "2026-3781782",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-08-24",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "EDCOUCH ELSA INDEPENDENT SCHOOL DISTRICT",
+      "grantee": "A & M LUMBER CO INC",
+      "amount": null,
+      "legal": "2026-3782090",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
