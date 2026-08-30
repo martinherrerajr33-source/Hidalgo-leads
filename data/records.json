@@ -1,8 +1,133 @@
 {
-  "fetched_at": "2026-08-29T12:58:40.543589+00:00",
+  "fetched_at": "2026-08-30T12:37:06.062335+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-08-22 to 2026-08-29",
-  "total": 0,
+  "date_range": "2026-08-23 to 2026-08-30",
+  "total": 5,
   "with_address": 0,
-  "records": []
+  "records": [
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-08-25",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "TEXAS STATE OF",
+      "grantee": "VASQUEZ GUADALUPE NOE",
+      "amount": null,
+      "legal": "2026-3782513",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-08-25",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT NO 1",
+      "grantee": "PULLEY FRANCES G TRUSTEE",
+      "amount": null,
+      "legal": "2026-3782481",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-08-26",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "HIDALGO COUNTY",
+      "grantee": "AYALA SALVADOR",
+      "amount": null,
+      "legal": "2026-3783141",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-08-27",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "HIDALGO COUNTY",
+      "grantee": "VILLALOBOS JUAN ENRIQUE",
+      "amount": null,
+      "legal": "2026-3783222",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-08-24",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "EDCOUCH ELSA INDEPENDENT SCHOOL DISTRICT",
+      "grantee": "A & M LUMBER CO INC",
+      "amount": null,
+      "legal": "2026-3782090",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
+    }
+  ]
 }
