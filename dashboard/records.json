@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-08-31T14:51:47.368345+00:00",
+  "fetched_at": "2026-09-01T12:22:27.230665+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-08-24 to 2026-08-31",
-  "total": 5,
+  "date_range": "2026-08-25 to 2026-09-01",
+  "total": 4,
   "with_address": 0,
   "records": [
     {
@@ -104,30 +104,6 @@
         "New this week"
       ],
       "score": 45
-    },
-    {
-      "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-08-24",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "EDCOUCH ELSA INDEPENDENT SCHOOL DISTRICT",
-      "grantee": "A & M LUMBER CO INC",
-      "amount": null,
-      "legal": "2026-3782090",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "New this week"
-      ],
-      "score": 35
     }
   ]
 }
