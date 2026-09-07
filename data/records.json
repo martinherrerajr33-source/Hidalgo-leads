@@ -1,8 +1,131 @@
 {
-  "fetched_at": "2026-09-06T11:32:28.906436+00:00",
+  "fetched_at": "2026-09-07T13:17:57.437731+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-08-30 to 2026-09-06",
-  "total": 0,
+  "date_range": "2026-08-31 to 2026-09-07",
+  "total": 5,
   "with_address": 0,
-  "records": []
+  "records": [
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-03",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "MC ALLEN CITY OF",
+      "grantee": "GRANDE VALLEY HOMES LLC",
+      "amount": null,
+      "legal": "2026-3785645",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-09-03",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "ELECTRIC TRANSMISSION TEXAS LLC",
+      "grantee": "FRYER MARK J",
+      "amount": null,
+      "legal": "2026-3785759",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "LLC / corp owner",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-09-02",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "RODRIGUEZ OSCAR MEMBER",
+      "grantee": "UNKNOWN",
+      "amount": null,
+      "legal": "2026-3784511",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-09-02",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "BACHELOR MARICELA",
+      "grantee": "ALONZO APRIL",
+      "amount": null,
+      "legal": "2026-3784432",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-09-03",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "HIDALGO COUNTY",
+      "grantee": "MENDOZA MARIO U",
+      "amount": null,
+      "legal": "2026-3785277",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
+    }
+  ]
 }
