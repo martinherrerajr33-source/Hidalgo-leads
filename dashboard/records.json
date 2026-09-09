@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-08T11:59:48.274297+00:00",
+  "fetched_at": "2026-09-09T12:10:12.937767+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-01 to 2026-09-08",
-  "total": 5,
+  "date_range": "2026-09-02 to 2026-09-09",
+  "total": 6,
   "with_address": 0,
   "records": [
     {
@@ -113,6 +113,30 @@
       "grantee": "MENDOZA MARIO U",
       "amount": null,
       "legal": "2026-3785277",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-09-04",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "EDINBURG CONSOLIDATED INDEPENDENT SCHOOL DISTRICT",
+      "grantee": "GONZALEZ RENE ET AL",
+      "amount": null,
+      "legal": "2026-3786169",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
