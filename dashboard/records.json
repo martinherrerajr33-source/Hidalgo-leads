@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-11T12:03:02.742312+00:00",
+  "fetched_at": "2026-09-12T11:28:52.703895+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-04 to 2026-09-11",
+  "date_range": "2026-09-05 to 2026-09-12",
   "total": 3,
   "with_address": 0,
   "records": [
@@ -32,14 +32,14 @@
     },
     {
       "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-09-04",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "EDINBURG CONSOLIDATED INDEPENDENT SCHOOL DISTRICT",
-      "grantee": "GONZALEZ RENE ET AL",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-11",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3787712",
+      "grantee": "--/--/--",
       "amount": null,
-      "legal": "2026-3786169",
+      "legal": "",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
@@ -50,9 +50,10 @@
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
+        "Lis pendens",
         "New this week"
       ],
-      "score": 35
+      "score": 45
     },
     {
       "doc_num": "",
