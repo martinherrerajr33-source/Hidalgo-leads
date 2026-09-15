@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-09-14T13:39:35.963307+00:00",
+  "fetched_at": "2026-09-15T12:28:28.401038+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-07 to 2026-09-14",
+  "date_range": "2026-09-08 to 2026-09-15",
   "total": 3,
   "with_address": 0,
   "records": [
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
-      "filed": "2026-09-09",
+      "filed": "2026-09-11",
       "cat": "LP",
       "cat_label": "Lis Pendens",
-      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT NO 1",
-      "grantee": "MENDEZ RAMIRO O",
+      "owner": "AEP TEXAS INC",
+      "grantee": "GOMEZ ARTURO",
       "amount": null,
-      "legal": "2026-3786857",
+      "legal": "2026-3787712",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
@@ -26,20 +26,21 @@
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
         "Lis pendens",
+        "LLC / corp owner",
         "New this week"
       ],
-      "score": 45
+      "score": 55
     },
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
-      "filed": "2026-09-11",
+      "filed": "2026-09-09",
       "cat": "LP",
       "cat_label": "Lis Pendens",
-      "owner": "2026-3787712",
-      "grantee": "--/--/--",
+      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT NO 1",
+      "grantee": "MENDEZ RAMIRO O",
       "amount": null,
-      "legal": "",
+      "legal": "2026-3786857",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
