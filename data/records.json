@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-15T12:28:28.401038+00:00",
+  "fetched_at": "2026-09-16T12:27:01.233648+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-08 to 2026-09-15",
+  "date_range": "2026-09-09 to 2026-09-16",
   "total": 3,
   "with_address": 0,
   "records": [
@@ -58,14 +58,14 @@
     },
     {
       "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-09-08",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT NO 1",
-      "grantee": "CIRILO MARCO ANTONIO",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-15",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3788416",
+      "grantee": "--/--/--",
       "amount": null,
-      "legal": "2026-3786362",
+      "legal": "",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
@@ -76,9 +76,10 @@
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
+        "Lis pendens",
         "New this week"
       ],
-      "score": 35
+      "score": 45
     }
   ]
 }
