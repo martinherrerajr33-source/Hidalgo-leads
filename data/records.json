@@ -1,36 +1,10 @@
 {
-  "fetched_at": "2026-09-18T12:05:07.243486+00:00",
+  "fetched_at": "2026-09-19T11:48:40.082809+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-11 to 2026-09-18",
-  "total": 4,
+  "date_range": "2026-09-12 to 2026-09-19",
+  "total": 3,
   "with_address": 0,
   "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-09-11",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "AEP TEXAS INC",
-      "grantee": "GOMEZ ARTURO",
-      "amount": null,
-      "legal": "2026-3787712",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 55
-    },
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
