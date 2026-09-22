@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-21T13:37:35.724899+00:00",
+  "fetched_at": "2026-09-22T12:22:02.818267+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-14 to 2026-09-21",
-  "total": 3,
+  "date_range": "2026-09-15 to 2026-09-22",
+  "total": 4,
   "with_address": 0,
   "records": [
     {
@@ -79,6 +79,30 @@
         "New this week"
       ],
       "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-09-18",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "U S A",
+      "grantee": "FUENTES RITA MARTINEZ GENARO",
+      "amount": null,
+      "legal": "2026-3789761",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
     }
   ]
 }
