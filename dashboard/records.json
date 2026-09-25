@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-24T12:33:21.499122+00:00",
+  "fetched_at": "2026-09-25T12:34:48.373651+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-17 to 2026-09-24",
-  "total": 3,
+  "date_range": "2026-09-18 to 2026-09-25",
+  "total": 4,
   "with_address": 0,
   "records": [
     {
@@ -57,14 +57,39 @@
     },
     {
       "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-23",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "TEXAS STATE OF",
+      "grantee": "MALDONADO LYDIA R REVOCABLE LIVING TRUST",
+      "amount": null,
+      "legal": "2026-3790827",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
       "doc_type": "REL LIS PENDENS",
       "filed": "2026-09-18",
       "cat": "RELLP",
       "cat_label": "Release of Lis Pendens",
       "owner": "U S A",
-      "grantee": "MARTINEZ RITA",
+      "grantee": "FUENTES RITA MARTINEZ GENARO",
       "amount": null,
-      "legal": "2026-3789760",
+      "legal": "2026-3789761",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
