@@ -1,35 +1,10 @@
 {
-  "fetched_at": "2026-10-01T14:11:16.058195+00:00",
+  "fetched_at": "2026-10-02T13:37:03.334182+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-09-24 to 2026-10-01",
-  "total": 8,
+  "date_range": "2026-09-25 to 2026-10-02",
+  "total": 11,
   "with_address": 0,
   "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-09-24",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "HIDALGO COUNTY",
-      "grantee": "GMG DESIGN & CONSTRUCTION LLC",
-      "amount": null,
-      "legal": "2026-3791323",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    },
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
@@ -182,14 +157,14 @@
     },
     {
       "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-09-24",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "U S A",
-      "grantee": "CANO RICARDO",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-30",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "MENDOZA NANCY",
+      "grantee": "GAKUI PATRICK",
       "amount": null,
-      "legal": "2026-3791407",
+      "legal": "2026-3793224",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
@@ -200,9 +175,110 @@
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
+        "Lis pendens",
         "New this week"
       ],
-      "score": 35
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-30",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "URENA REBECCA",
+      "grantee": "RODRIGUEZ RICARDO",
+      "amount": null,
+      "legal": "2026-3793046",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-30",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "MC ALLEN CITY OF",
+      "grantee": "GUERRA REYES A JR",
+      "amount": null,
+      "legal": "2026-3792970",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-09-30",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "VILLARREAL ANITA",
+      "grantee": "LUNA YANCY",
+      "amount": null,
+      "legal": "2026-3793052",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-01",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3793319",
+      "grantee": "--/--/--",
+      "amount": null,
+      "legal": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
     }
   ]
 }
