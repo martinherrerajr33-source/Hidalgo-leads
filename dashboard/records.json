@@ -1,60 +1,10 @@
 {
-  "fetched_at": "2026-10-09T14:08:41.659300+00:00",
+  "fetched_at": "2026-10-10T13:18:16.205841+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-10-02 to 2026-10-09",
-  "total": 6,
+  "date_range": "2026-10-03 to 2026-10-10",
+  "total": 5,
   "with_address": 0,
   "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-10-02",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "ROWLAND BRYAN SCOTT",
-      "grantee": "NEWREZ LLC",
-      "amount": null,
-      "legal": "2026-3793742",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-10-02",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "MC ALLEN CITY OF",
-      "grantee": "VILLARREAL MARIA IGNACIA DECEASED",
-      "amount": null,
-      "legal": "2026-3793954",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    },
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
@@ -126,6 +76,31 @@
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
         "LLC / corp owner",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-09",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3795752",
+      "grantee": "--/--/--",
+      "amount": null,
+      "legal": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
         "New this week"
       ],
       "score": 45
