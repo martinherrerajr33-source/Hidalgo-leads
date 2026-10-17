@@ -1,60 +1,10 @@
 {
-  "fetched_at": "2026-10-16T12:06:46.297611+00:00",
+  "fetched_at": "2026-10-17T11:22:53.110489+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-10-09 to 2026-10-16",
-  "total": 7,
+  "date_range": "2026-10-10 to 2026-10-17",
+  "total": 5,
   "with_address": 0,
   "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-10-09",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT NO 1",
-      "grantee": "CANTU JUAN OSCAR ORTIZ",
-      "amount": null,
-      "legal": "2026-3795752",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-10-09",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "GAITAN VERONICA",
-      "grantee": "REGALADO SONIA",
-      "amount": null,
-      "legal": "2026-3795747",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    },
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
@@ -132,14 +82,14 @@
     },
     {
       "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-10-09",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "TEXAS STATE OF",
-      "grantee": "GUERRERO CHRISTINA LEE",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-16",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3797447",
+      "grantee": "--/--/--",
       "amount": null,
-      "legal": "2026-3795821",
+      "legal": "",
       "prop_address": "",
       "prop_city": "",
       "prop_state": "TX",
@@ -150,9 +100,10 @@
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
+        "Lis pendens",
         "New this week"
       ],
-      "score": 35
+      "score": 45
     },
     {
       "doc_num": "",
