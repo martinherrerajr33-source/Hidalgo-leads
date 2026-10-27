@@ -1,34 +1,8 @@
 {
-  "fetched_at": "2026-10-26T13:54:01.002204+00:00",
+  "fetched_at": "2026-10-27T12:59:17.351209+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-10-19 to 2026-10-26",
-  "total": 1,
+  "date_range": "2026-10-20 to 2026-10-27",
+  "total": 0,
   "with_address": 0,
-  "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-10-20",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "MC ALLEN CITY OF",
-      "grantee": "GOMEZ JOHN",
-      "amount": null,
-      "legal": "2026-3798470",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    }
-  ]
+  "records": []
 }
