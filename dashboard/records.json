@@ -1,8 +1,133 @@
 {
-  "fetched_at": "2026-10-27T12:59:17.351209+00:00",
+  "fetched_at": "2026-10-28T13:50:50.418787+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-10-20 to 2026-10-27",
-  "total": 0,
+  "date_range": "2026-10-21 to 2026-10-28",
+  "total": 5,
   "with_address": 0,
-  "records": []
+  "records": [
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-26",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "HERNANDEZ ESTELLA",
+      "grantee": "VILLANUEVA NORMA",
+      "amount": null,
+      "legal": "2026-3799911",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-26",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "CANTU YESENIA LYNETT",
+      "grantee": "CN HOLDINGS LLC",
+      "amount": null,
+      "legal": "2026-3799951",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-27",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3800554",
+      "grantee": "--/--/--",
+      "amount": null,
+      "legal": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-27",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3800266",
+      "grantee": "--/--/--",
+      "amount": null,
+      "legal": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-10-23",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "URIBE BENITO NAVARRO",
+      "grantee": "RODRIGUEZ NORMA EDITH SANTOS",
+      "amount": null,
+      "legal": "2026-3799673",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
+    }
+  ]
 }
