@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-30T13:51:45.988394+00:00",
+  "fetched_at": "2026-10-31T13:18:56.691059+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-10-23 to 2026-10-30",
-  "total": 8,
-  "with_address": 0,
+  "date_range": "2026-10-24 to 2026-10-31",
+  "total": 7,
+  "with_address": 2,
   "records": [
     {
       "doc_num": "",
@@ -15,13 +15,13 @@
       "grantee": "SANTANA TEXTILES LLC",
       "amount": null,
       "legal": "2026-3800401",
-      "prop_address": "",
+      "prop_address": "MCINTYRE ST",
       "prop_city": "",
       "prop_state": "TX",
       "prop_zip": "",
       "mail_address": "",
       "mail_city": "",
-      "mail_state": "",
+      "mail_state": "TX",
       "mail_zip": "",
       "clerk_url": "https://hidalgo.tx.publicsearch.us",
       "flags": [
@@ -29,7 +29,32 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "score": 55
+      "score": 60
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-10-27",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "HIDALGO COUNTY",
+      "grantee": "GUERRA FRANCISCO LUIS ET AL",
+      "amount": null,
+      "legal": "2026-3800266",
+      "prop_address": "N ALAMO RD, TX",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "TX",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 50
     },
     {
       "doc_num": "",
@@ -112,31 +137,6 @@
       "filed": "2026-10-27",
       "cat": "LP",
       "cat_label": "Lis Pendens",
-      "owner": "HIDALGO COUNTY",
-      "grantee": "GUERRA FRANCISCO LUIS ET AL",
-      "amount": null,
-      "legal": "2026-3800266",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-10-27",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
       "owner": "ARROYO MARIA H SALTO",
       "grantee": "MORIN GLORIA E",
       "amount": null,
@@ -180,30 +180,6 @@
         "New this week"
       ],
       "score": 45
-    },
-    {
-      "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-10-23",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "URIBE BENITO NAVARRO",
-      "grantee": "RODRIGUEZ NORMA EDITH SANTOS",
-      "amount": null,
-      "legal": "2026-3799673",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "New this week"
-      ],
-      "score": 35
     }
   ]
 }
