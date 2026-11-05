@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-04T15:05:58.966490+00:00",
+  "fetched_at": "2026-11-05T15:11:24.593516+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-10-28 to 2026-11-04",
-  "total": 5,
+  "date_range": "2026-10-29 to 2026-11-05",
+  "total": 4,
   "with_address": 4,
   "records": [
     {
@@ -104,31 +104,6 @@
         "New this week"
       ],
       "score": 50
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-10-28",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "MC ALLEN CITY OF",
-      "grantee": "ZAMORANO EDGAR",
-      "amount": null,
-      "legal": "2026-3800753",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
     }
   ]
 }
