@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-05T15:11:24.593516+00:00",
+  "fetched_at": "2026-11-06T14:47:54.041405+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-10-29 to 2026-11-05",
-  "total": 4,
+  "date_range": "2026-10-30 to 2026-11-06",
+  "total": 5,
   "with_address": 4,
   "records": [
     {
@@ -104,6 +104,31 @@
         "New this week"
       ],
       "score": 50
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-11-04",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "PHILLIPS SUZAN",
+      "grantee": "TORRES JOHN",
+      "amount": null,
+      "legal": "2026-3803252",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 45
     }
   ]
 }
