@@ -1,110 +1,10 @@
 {
-  "fetched_at": "2026-11-09T17:10:29.779092+00:00",
+  "fetched_at": "2026-11-10T15:26:16.303195+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-11-02 to 2026-11-09",
-  "total": 5,
-  "with_address": 4,
+  "date_range": "2026-11-03 to 2026-11-10",
+  "total": 2,
+  "with_address": 0,
   "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-11-02",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "MISSION CITY OF",
-      "grantee": "OAKLEY LOYDE PEYTON",
-      "amount": null,
-      "legal": "2026-3802396",
-      "prop_address": "1 1/2 MILE S BENTSEN PALM DR, TX",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "TX",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 50
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-11-02",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "TEXAS STATE OF",
-      "grantee": "ONTIVEROS MIGUEL",
-      "amount": null,
-      "legal": "2026-3802245",
-      "prop_address": "BUSINESS 83, TX",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "TX",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 50
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-11-02",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT NO 1",
-      "grantee": "CANALES DUANA R",
-      "amount": null,
-      "legal": "2026-3802209",
-      "prop_address": "HWY 107, TX",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "TX",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 50
-    },
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-11-02",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "HIDALGO COUNTY",
-      "grantee": "OLIVAREZ LAZARO G",
-      "amount": null,
-      "legal": "2026-3802442",
-      "prop_address": "N ALAMO RD, TX",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "TX",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 50
-    },
     {
       "doc_num": "",
       "doc_type": "LIS PENDENS",
@@ -129,6 +29,30 @@
         "New this week"
       ],
       "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-11-06",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "MORALES OSVALDO J III",
+      "grantee": "UNKNOWN",
+      "amount": null,
+      "legal": "2026-3804096",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
     }
   ]
 }
