@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-13T15:06:56.666804+00:00",
+  "fetched_at": "2026-11-14T13:58:04.821484+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-11-06 to 2026-11-13",
-  "total": 2,
+  "date_range": "2026-11-07 to 2026-11-14",
+  "total": 1,
   "with_address": 0,
   "records": [
     {
@@ -29,30 +29,6 @@
         "New this week"
       ],
       "score": 45
-    },
-    {
-      "doc_num": "",
-      "doc_type": "REL LIS PENDENS",
-      "filed": "2026-11-06",
-      "cat": "RELLP",
-      "cat_label": "Release of Lis Pendens",
-      "owner": "MORALES OSVALDO J III",
-      "grantee": "UNKNOWN",
-      "amount": null,
-      "legal": "2026-3804096",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "New this week"
-      ],
-      "score": 35
     }
   ]
 }
