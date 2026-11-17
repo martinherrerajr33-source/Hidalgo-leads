@@ -1,34 +1,8 @@
 {
-  "fetched_at": "2026-11-16T16:46:06.166961+00:00",
+  "fetched_at": "2026-11-17T16:42:28.252567+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-11-09 to 2026-11-16",
-  "total": 1,
+  "date_range": "2026-11-10 to 2026-11-17",
+  "total": 0,
   "with_address": 0,
-  "records": [
-    {
-      "doc_num": "",
-      "doc_type": "LIS PENDENS",
-      "filed": "2026-11-09",
-      "cat": "LP",
-      "cat_label": "Lis Pendens",
-      "owner": "MC ALLEN CITY OF",
-      "grantee": "MENDOZA YARA INEZ",
-      "amount": null,
-      "legal": "2026-3804281",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "clerk_url": "https://hidalgo.tx.publicsearch.us",
-      "flags": [
-        "Lis pendens",
-        "New this week"
-      ],
-      "score": 45
-    }
-  ]
+  "records": []
 }
