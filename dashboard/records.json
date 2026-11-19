@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-18T16:11:31.835026+00:00",
+  "fetched_at": "2026-11-19T16:19:02.686380+00:00",
   "source": "Hidalgo County Clerk (publicsearch.us) + Hidalgo CAD",
-  "date_range": "2026-11-11 to 2026-11-18",
-  "total": 1,
-  "with_address": 0,
+  "date_range": "2026-11-12 to 2026-11-19",
+  "total": 3,
+  "with_address": 1,
   "records": [
     {
       "doc_num": "",
@@ -11,7 +11,32 @@
       "filed": "2026-11-17",
       "cat": "LP",
       "cat_label": "Lis Pendens",
-      "owner": "2026-3806528",
+      "owner": "HIDALGO COUNTY DRAINAGE DISTRICT NO 1",
+      "grantee": "GOFORTH SIMONE ALVES DE ASSIS",
+      "amount": null,
+      "legal": "2026-3806528",
+      "prop_address": "HWY 107, TX",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "TX",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 50
+    },
+    {
+      "doc_num": "",
+      "doc_type": "LIS PENDENS",
+      "filed": "2026-11-18",
+      "cat": "LP",
+      "cat_label": "Lis Pendens",
+      "owner": "2026-3807059",
       "grantee": "--/--/--",
       "amount": null,
       "legal": "",
@@ -29,6 +54,30 @@
         "New this week"
       ],
       "score": 45
+    },
+    {
+      "doc_num": "",
+      "doc_type": "REL LIS PENDENS",
+      "filed": "2026-11-17",
+      "cat": "RELLP",
+      "cat_label": "Release of Lis Pendens",
+      "owner": "MENDEZ JUAN MANUEL MARQUEZ",
+      "grantee": "JUARISTI MANUEL ALFONSO MONIET",
+      "amount": null,
+      "legal": "2026-3806559",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "clerk_url": "https://hidalgo.tx.publicsearch.us",
+      "flags": [
+        "New this week"
+      ],
+      "score": 35
     }
   ]
 }
